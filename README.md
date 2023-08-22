@@ -4,3 +4,5 @@ for luai adhmani Git Course
 ## project notes
 
 this is new note
+
+second edit
